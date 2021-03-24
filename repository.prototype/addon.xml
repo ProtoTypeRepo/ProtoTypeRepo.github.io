@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.prototype" name="ProtoType Repo" version="1.0" provider-name="ProtoType">
+    <extension point="xbmc.addon.repository" name="ProtoType Repository">
+        <dir>
+			<info compressed="false">https://raw.githubusercontent.com/ProtoTypeRepo/ProtoTypeRepo.github.io/master/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/ProtoTypeRepo/ProtoTypeRepo.github.io/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/ProtoTypeRepo/ProtoTypeRepo.github.io/master/zips/</datadir>
+		</dir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>jProtoType Repo</summary>
+        <description>A repository for the things that I tinker with.</description>
+        <disclaimer></disclaimer>
+        <platform>all</platform>
+        <assets>
+            <icon>icon.png</icon>
+        </assets>
+    </extension>
+</addon>
