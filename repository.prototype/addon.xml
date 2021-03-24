@@ -8,7 +8,7 @@
 		</dir>
     </extension>
     <extension point="xbmc.addon.metadata">
-        <summary>jProtoType Repo</summary>
+        <summary>ProtoType Repo</summary>
         <description>A repository for the things that I tinker with.</description>
         <disclaimer></disclaimer>
         <platform>all</platform>
