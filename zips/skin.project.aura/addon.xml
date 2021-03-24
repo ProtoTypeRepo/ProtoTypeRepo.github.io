@@ -20,7 +20,7 @@
         <description lang="en_GB">Project Aura is my first attempt at anything to do with Kodi skinning. Out of all the skins I've tried, Aura was everything I wanted. When I learned there was no Matrix support, I decided to make it myself! I have made a few tweaks here and there, but the majority of the skin is exactly as jurialmunkey designed it. He deserves all the credit in the world.</description>
         <platform>all</platform>
         <license>Creative Commons Attribution Non-Commercial Share-Alike 4.0</license>
-        <source>https://github.com/jurialmunkey/skin.aura</source>
+        <source>https://github.com/ProtoTypeRepo/skin.project.aura</source>
         <assets>
             <icon>icon.png</icon>
             <fanart>fanart.jpg</fanart>
