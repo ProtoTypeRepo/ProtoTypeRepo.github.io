@@ -77,7 +77,7 @@
 		<!-- Addon Support Fonts -->
 		<font>
             <name>font12</name>
-            <filename>RobotoCondensed-Bold.ttf</filename>
+            <filename>RobotoCondensed-Regular</filename>
             <size>40</size>
         </font>
 		<font>
